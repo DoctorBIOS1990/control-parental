@@ -1,6 +1,8 @@
 # :stopwatch: Parental Control
 Developed to control machine time, this was for a family member. 
-- Windows platform.
+
+> Windows platform.
+> Developed in Delphi 11.2
 
 # :camera_flash: Screenshot
 <div align="center">
